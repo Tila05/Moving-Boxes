@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+}
+
+/* #outer {
+    border: solid;
+    padding: 10px;
+} */
+
+
+/* Constant box states */
+#green {
+    width: 1200px;
+    height: 650px;
+    background-color: green;
+}
+
+#red {
+    width: 600px;
+    height: 600px;
+    background-color: red;
+}
+
+#blueIn {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+}
+
+#blueBottom {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+}
+
+#boxes {
+    /* margin: 30px; */
+    padding: 30px;
+}
+
+
+/* Class to hide boxes */
+.hidden {
+    visibility: hidden;
+}
+
+
+/* Boxes for the first button */
+.red_button_1 {
+    visibility: visible;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.blue_in_button_1 {
+    visibility: visible;
+}
+
+
+/* Boxes for the second button */
+.red_button_2 {
+    visibility: visible;
+    margin-bottom: 20px;
+}
+
+.blue_bottom_button_2 {
+    visibility: visible;
+}
+
+
+/* Boxes for the third button */
+.red_button_3 {
+    visibility: visible;
+}
+
+.blue_bottom_button_3 {
+    visibility: visible;
+    margin-left: 620px;
+    margin-top: -600px;
+}
+
+
+/* Boxes for the fourth button */
+.red_button_4 {
+    visibility: visible;
+    margin-left: 320px;
+}
+
+.blue_bottom_button_4 {
+    visibility: visible;
+    margin-top: -600px;
+}
+
+
+/* Boxes for the fifth button */
+.red_button_5 {
+    visibility: visible;
+    padding-left: 255px;
+    padding-top: 20px;
+}
+
+.blue_in_button_5 {
+    visibility: visible;
+}
+
+
+/* Boxes for the sixth button */
+.red_button_6 {
+    visibility: visible;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.blue_in_button_6 {
+    visibility: visible;
+}
+
+.green_button_6 {
+    visibility: visible;
+    padding-top: 20px;
+    padding-left: 20px;
+}
